@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "install:clean": "npm install --legacy-peer-deps"
   },
   "dependencies": {
     "next": "^18.0.0",
